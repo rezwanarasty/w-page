@@ -1,0 +1,32 @@
+div{
+    background-color: green;
+    text-align: center;
+    color:orangered;
+    }
+h1{ 
+     font-size: 80px ;
+
+}
+h3{font-size: 50px;
+}
+h5{
+    font-size: 30px;
+}
+form{
+
+}
+#vehicle1{
+    width: auto;
+}
+label{
+font-size: 20px;
+}
+
+input{
+    width: 30%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
